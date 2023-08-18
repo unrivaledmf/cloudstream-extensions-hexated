@@ -3,6 +3,6 @@
   "description": "for me, for you, for us",
   "manifestVersion": 1,
   "pluginLists": [
-
+    "https://raw.githubusercontent.com/unrivaledmf/cloudstream-extensions-hexated/builds/plugins.json"
   ]
 }
